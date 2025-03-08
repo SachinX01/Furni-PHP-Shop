@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60.61 19.84">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #5e594f;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5 {
+        stroke: #2f2f2f;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: .25px;
+      }
+
+      .cls-2 {
+        fill: #4e4a41;
+      }
+
+      .cls-3 {
+        fill: #4c4841;
+      }
+
+      .cls-4 {
+        fill: #565249;
+      }
+
+      .cls-5 {
+        fill: #666156;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g>
+      <g>
+        <rect class="cls-2" x="54.93" y="16.33" width="1.14" height="3.39"/>
+        <rect class="cls-2" x="55.12" y="15.89" width=".76" height=".44"/>
+        <polygon class="cls-2" points="54.93 16.35 54.93 17.77 53.35 15.89 54.54 15.89 54.93 16.35"/>
+      </g>
+      <g>
+        <polygon class="cls-3" points="7.42 15.89 5.85 17.76 5.85 16.33 6.21 15.89 7.42 15.89"/>
+        <rect class="cls-3" x="4.89" y="15.89" width=".77" height=".44"/>
+        <rect class="cls-3" x="4.7" y="16.33" width="1.15" height="3.39"/>
+      </g>
+      <rect class="cls-1" x=".29" y="5.16" width="5.13" height="9.41" rx="1" ry="1"/>
+      <rect class="cls-1" x="55.35" y="5.16" width="5.13" height="9.41" rx="1" ry="1"/>
+      <rect class="cls-5" x="5.42" y=".12" width="24.97" height="9.74" rx="1" ry="1"/>
+      <rect class="cls-5" x="30.39" y=".12" width="24.96" height="9.74" rx="1" ry="1"/>
+      <rect class="cls-1" x="30.39" y="9.86" width="24.96" height="4.7" rx="1" ry="1"/>
+      <rect class="cls-1" x="5.42" y="9.86" width="24.97" height="4.7" rx="1" ry="1"/>
+      <rect class="cls-4" x=".13" y="14.57" width="60.36" height="1.32" rx=".3" ry=".3"/>
+    </g>
+  </g>
+</svg>
