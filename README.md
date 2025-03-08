@@ -34,7 +34,7 @@ This project is based on [Furni-PHP-Shop by AleksaSubasic](https://github.com/Al
 3. Move the project folder to `C:\xampp\htdocs\` directory
 4. Start the Apache and MySQL services from XAMPP Control Panel
 5. Open phpMyAdmin by navigating to [http://localhost/phpmyadmin](http://localhost/phpmyadmin)
-6. Create a new database named `furni_shop_db` (or import the provided SQL file if available)
+6. Create a new database named `furni_db` (or import the provided SQL file if available)
 7. Configure the database connection in the project files if necessary
 8. Access the website by navigating to [http://localhost/Furni-PHP-Shop](http://localhost/Furni-PHP-Shop)
 
@@ -67,7 +67,7 @@ This project is based on [Furni-PHP-Shop by AleksaSubasic](https://github.com/Al
 
 ## Screenshots
 
-*[Add screenshots of your application here]*
+
 
 ## Contributing
 
