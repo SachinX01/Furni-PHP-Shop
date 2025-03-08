@@ -65,8 +65,24 @@ This project is based on [Furni-PHP-Shop by AleksaSubasic](https://github.com/Al
 - **Database**: MySQL
 - **Server**: Apache (via XAMPP)
 
+## Sequence Diagram
+
+The following sequence diagram illustrates the checkout process in the Furni-PHP-Shop application:
+
+![0](https://github.com/user-attachments/assets/adad6628-7dd1-466e-aca6-65d784f8cb4f)
+
+
 ## Screenshots
 
+![1](https://github.com/user-attachments/assets/5525c7bf-f3ff-4725-98c5-dc91183b4f06)
+
+![2](https://github.com/user-attachments/assets/d4223787-226a-4aaa-939a-5cef7f58e9f9)
+
+![3](https://github.com/user-attachments/assets/b8825bc0-aa26-408c-9c5c-6a9c8227d368)
+
+![4](https://github.com/user-attachments/assets/7d2cb06e-a1e0-4094-aefa-8be4d62be338)
+
+![5](https://github.com/user-attachments/assets/49ef55eb-96a7-4149-9a06-7cda10a4bbda)
 
 
 ## Contributing
